@@ -49,3 +49,9 @@ VoiceFlow Code to query OpenAI Vision:
     "max_tokens": 1000
 }
 ```
+
+References:
+
+* [Voiceflow](https://www.voiceflow.com/)
+* [Cloudinary](https://cloudinary.com/)
+* [ChromeDriver](https://developer.chrome.com/docs/chromedriver/downloads)
