@@ -3,6 +3,8 @@ This is the source code for an AI Portfolio Site Reviewer.
 
 The techstack used are Python(Django), HTML, TailwindCSS & Javascript.<br><br>
 
+Don't forget to create an AI Agent in Voiceflow using the OpenAI vision language model API before integrating the Voiceflow API into your Django Web Application. You should follow a similar process for Cloudinary as well.<br><br>
+
 To run this locally, run these commands:
 ```html
 git clone https://github.com/Anas436/ai-portfolio-reviewer
