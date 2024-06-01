@@ -5,7 +5,7 @@ The techstack used are Python(Django), HTML, TailwindCSS & Javascript.<br><br>
 
 To run this locally, run these commands:
 ```html
-git clone https://github.com/tomitokko/ai-portfolio-reviewer
+git clone https://github.com/Anas436/ai-portfolio-reviewer
 ```
 
 ```html
